@@ -33,7 +33,7 @@ html,body {
 
 @media (max-width:480px){
   #ag{
-    display: none !important;
+    left: 26% !important;
   }
 }
 
